@@ -1,7 +1,9 @@
 # Nerdy Anniversary Card
 
 Welcome Nerds and Happy Anniversary!  You are probably visiting this page because some awesome person gave you a Nerdy Anniversary Card :) 
-Use the switch to turn on your Nerdy Anniversary Card.  It will display "Happy Anniversary!" (or a custom message if ordered) and play a song (Minuet in G).  After the song is complete, the display will test your love using the "Love-O-Meter."  Hold down the button until it tells you to stop.  Finally, the display says "I Love You!" (or custom message)  You can also write the name of the special person on the back as well as the anniverary number and date.  A fine tip sharpie marker works best.
+Use the switch to turn on your Nerdy Anniversary Card.  It will display "Happy Anniversary!" (or a custom message if ordered) and play a song (Minuet in G).  After the song is complete, the display will test your love using the "Love-O-Meter."  Hold down the button until it tells you to stop.  Finally, the display says "I Love You!" (or custom message)  You can also write the name of the special person on the back as well as the anniverary number and date.  A fine tip sharpie marker works best.  
+
+Please review the instructions for inserting the battery.
 
 ## YouTube Demonstration: https://youtu.be/IYo10Fv6pjQ
 
