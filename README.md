@@ -5,7 +5,7 @@ Use the switch to turn on your Nerdy Anniversary Card.  It will display "Happy A
 
 Please review the instructions for inserting the battery.
 
-## YouTube Demonstration: https://youtu.be/IYo10Fv6pjQ
+## YouTube Demonstration: https://youtu.be/B78pAJCGiA8
 
 ## PURCHASE A CARD
 https://www.etsy.com/listing/1101757816/  
